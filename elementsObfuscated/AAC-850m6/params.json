@@ -1,0 +1,27 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 16,
+        "width": 16
+    },
+    "display": "Zoom Element",
+    "fields": {
+        "AAD": {
+            "caption": "id",
+            "editor": "DynamicValue",
+            "name": "id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "Zoom (%)",
+            "default_val": 110,
+            "editor": "DynamicValue",
+            "name": "zoom",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank"
+}
